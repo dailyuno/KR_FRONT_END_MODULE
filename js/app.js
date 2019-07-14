@@ -1,3 +1,6 @@
+/**
+ * 2019 Kazan Gold Medal
+ */
 const app = new Vue({
     el: '#app',
 
